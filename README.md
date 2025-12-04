@@ -17,4 +17,13 @@ Project Structure
 - `frontend.html` – User interface for uploading documents and viewing results.
 - `styles.css` – Styling for the web page layout and components.
 
+ How to run
+1. Download or clone this project.
+2. Open a terminal in the project folder.
+3. Install the required Python libraries.
+4. Run:
+5. Open the link shown in the terminal.
+
+
+
 
